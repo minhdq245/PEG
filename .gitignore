@@ -10,3 +10,5 @@ weights/pretrained/
 weights/**/events.*
 # Datasets are access-controlled and never committed
 datasets/
+# Ultralytics settings dir created at runtime
+Ultralytics/
